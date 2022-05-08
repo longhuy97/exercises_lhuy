@@ -267,7 +267,6 @@ class _NotiState extends State<Noti> {
               ),
             ),
           ),
-
           const SizedBox(
             height: 40.0,
           ),

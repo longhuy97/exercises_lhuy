@@ -514,9 +514,10 @@ class _ProFileState extends State<ProFile> {
                             Text(
                               '248',
                               style: TextStyle(
-                                  color: Color(0xffFFFFFF),
-                                  fontSize: 16.0,
-                                  fontWeight: FontWeight.w500),
+                                color: Color(0xffFFFFFF),
+                                fontSize: 16.0,
+                                fontWeight: FontWeight.w500,
+                              ),
                             ),
                           ],
                         ),

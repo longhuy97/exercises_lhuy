@@ -8,7 +8,7 @@ class Categories {
 }
 
 List<Categories> categories = [
-  Categories(name: 'Furniture works', icon: Icons.abc),
+  Categories(name: 'Furniture works', icon: Icons.abc   ),
   Categories(name: 'Cleaning services', icon: Icons.abc),
   Categories(name: 'Equipment repair', icon: Icons.abc),
   Categories(name: 'Courier services', icon: Icons.abc),

@@ -1,11 +1,18 @@
 import 'package:device_preview/device_preview.dart';
 import 'package:exercises_lhuy/src/screen/categories_screen.dart';
-import 'package:exercises_lhuy/src/screen/notification.dart';
-import 'package:exercises_lhuy/src/screen/profile.dart';
+import 'package:exercises_lhuy/src/screen/customer_screen.dart';
+import 'package:exercises_lhuy/src/screen/notification_screen.dart';
+import 'package:exercises_lhuy/src/screen/orders_screen.dart';
+import 'package:exercises_lhuy/src/screen/payment_screen.dart';
+import 'package:exercises_lhuy/src/screen/paymentcar_screen.dart';
+import 'package:exercises_lhuy/src/screen/profile_screen.dart';
+import 'package:exercises_lhuy/src/screen/setting_screen.dart';
 import 'package:exercises_lhuy/src/screen/signin_screen.dart';
 import 'package:exercises_lhuy/src/screen/signup_screen.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+
+import 'src/screen/contrucstion_screen.dart';
 
 void main() {
   runApp(DevicePreview(
@@ -27,7 +34,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Noti(),
+      home: const SignUp(),
     );
   }
 }

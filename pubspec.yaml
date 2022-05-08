@@ -71,7 +71,28 @@ flutter:
   - assets/image/face_joel.png
   - assets/image/face_cole.png
   - assets/image/face_elva.png
-
+  - assets/image/tich.png
+  - assets/image/cong.png
+  - assets/image/welding.png
+  - assets/image/foundation.png
+  - assets/image/waterproofing.png
+  - assets/image/20.png
+  - assets/image/40.png
+  - assets/image/55.png
+  - assets/image/105.png
+  - assets/image/cardblue.png
+  - assets/image/cardred.png
+  - assets/image/mastercard_logo.png
+  - assets/image/visa_logo.png
+  - assets/image/bigimage.png
+  - assets/image/star.png
+  - assets/image/star1.png
+  - assets/image/equipment_icon.png
+  - assets/image/courier_icon.png
+  - assets/image/cleaning_icon.png
+  - assets/image/interiro_icon.png
+  - assets/image/furniture_icon.png
+  
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
