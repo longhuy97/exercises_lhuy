@@ -5,6 +5,7 @@ import 'package:exercises_lhuy/src/screen/notification_screen.dart';
 import 'package:exercises_lhuy/src/screen/orders_screen.dart';
 import 'package:exercises_lhuy/src/screen/payment_screen.dart';
 import 'package:exercises_lhuy/src/screen/paymentcar_screen.dart';
+import 'package:exercises_lhuy/src/screen/paymentcardetail.dart';
 import 'package:exercises_lhuy/src/screen/profile_screen.dart';
 import 'package:exercises_lhuy/src/screen/setting_screen.dart';
 import 'package:exercises_lhuy/src/screen/signin_screen.dart';
@@ -34,7 +35,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const SignUp(),
+      home: const Paymentcardetail(),
     );
   }
 }
